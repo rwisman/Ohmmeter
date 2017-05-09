@@ -1,0 +1,29 @@
+Version number:		1.0
+Copyright:
+Primary category:	Education
+____________________________________
+Rating:			None in all
+____________________________________
+Entering Metadata		
+Description:		
+
+Ohmmeter displays, records, graphs and emails resistance measurements using a simple circuit connected through the iPod/iPhone/iPad headset port using a standard headset jack. The application is useful for measuring fixed resistance or recording resistance changes over a time period. Up to two days of resistance measurements can be recorded at rates of 10 samples per second. The measurements are graphed as recorded and can also be emailed in spreadsheet form.
+
+Keywords:		science education, resistance, ohms, mobile science
+Support URL:		http://www.ius.edu/rwisman/Ohmmeter
+______________________________________
+App Review Information
+Contact information
+	First name	Raymond 
+	Last name	Wisman
+	Email address	rwisman@ius.edu
+	Phone number	1-812-941-2465
+_______________________________________
+Uploading Icons, Screenshots, and Routing App Files for Your App
+
+John - Ohmmeter/GlyphishIcons holds the icon and screenshot files named:
+	Large App Icon				1024x1024.png
+	iPhone and iPod touch Screenshots	640x960.png
+	iPhone 5 and iPad touch			640x1136.png
+	iPad Screenshots			1536x2048.png
+
